@@ -2,9 +2,9 @@ body {
     margin: 0;
     padding: 0;
     height: 100vh;
-    background-color: #000; /* Fond noir */
+    background-color: #000; 
     overflow: hidden;
-    font-family: 'Poppins', sans-serif; /* Utiliser la police Poppins */
+    font-family: 'Poppins', sans-serif; 
 }
 
 #particles-js {
@@ -40,7 +40,7 @@ h1 {
 
 p {
     font-size: 18px;
-    margin-top: -30px;  /* Espacement ajusté entre le pseudo et la description */
+    margin-top: -30px;  
     font-weight: 400;
 }
 
