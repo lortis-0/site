@@ -1,4 +1,3 @@
-// Initialisation de particles.js
 particlesJS("particles-js", {
     particles: {
         number: {
@@ -9,10 +8,10 @@ particlesJS("particles-js", {
             }
         },
         color: {
-            value: "#FFA500" // couleur orange pour les particules
+            value: "#FFA500" 
         },
         shape: {
-            type: "circle", // les particules seront circulaires
+            type: "circle", 
             stroke: {
                 width: 0,
                 color: "#000000"
